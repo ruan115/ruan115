@@ -4,7 +4,7 @@ I am a learning student from China. I like open source and all interesting thing
 I want to be an interesting person and create something that can be remembered by others.
 
 🔭 I’m a student in school at present
-🌱 I'm currently learning Angular, React, Vue, Games, and Drawing
+🌱 I'm currently learning  React, Vue, Games, and Drawing
 🤔 I recently wanted to make a pure front-end theme
 
 <!---
